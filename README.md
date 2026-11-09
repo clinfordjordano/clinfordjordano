@@ -1,35 +1,32 @@
-<!--
-**clinfordjordano/clinfordjordano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Clinford 👋
 
-Here are some ideas to get you started:
+**Senior Software Engineer** with 8+ years in global fintech and travel. I work across the stack, from frontend platforms to data pipelines and AI tooling, and I like closing the gap between a fast interface and a resilient backend.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build telemetry, developer tooling and full-stack systems.
 
-# Hi there, I'm Clinford! 👋
+## 🔭 What I do
 
-<!--
-## 🚀 GitHub Contributions
+- **Frontend platforms:** React, Next.js, TypeScript, React Native, performance and Core Web Vitals
+- **Data and backend:** Node.js, Kafka, Flink, ClickHouse, GraphQL
+- **Developer experience:** SDKs, schema-driven UI, test infrastructure, CI/CD
+- **Applied AI:** AI-assisted workflows for incident triage and requirements analysis
 
-![Your GitHub Contributions](https://github-readme-stats.vercel.app/api?username=clinfordjordano&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+## 🧰 Tools I work with
 
-## 📊 GitHub Stats
+TypeScript · React · Next.js · Node.js · Vue.js · React Native · Redux · TanStack Query · Zustand · GraphQL · Webpack · Jest · React Testing Library · Playwright · GitHub Actions · AWS · Terraform · Datadog · Kafka · Flink · ClickHouse
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=clinfordjordano&layout=compact&theme=radical)
--->
+## 🚀 Highlights
 
-## 📫 Get in Touch
+- 7 years at **Traveloka**, growing from partner-facing products to leading frontend modernization and web performance work for millions of users
+- Now at **a global fintech company**, working on real-time telemetry and frontend platforms
+- Talks: **DevFest Jakarta 2023** (Core Web Vitals and INP) and **Google I/O Extended Jakarta 2022**
+- **ADPList Top 100 Mentor**, helping engineers with career and technical growth
+- Traveloka **Grit Award**, 2022
 
-LinkedIn: Clinford Jordano Valencia ([Link to LinkedIn](https://id.linkedin.com/in/clinford-jordano-valencia))
-<!-- - Twitter: [Your Twitter Handle](Link to Twitter) -->
-<!-- - Website: [Your Website](Link to Website) -->
+## 📫 Get in touch
 
-Feel free to explore my GitHub repositories and reach out for collaborations or questions!
+- 🌐 **Website:** **[clinford.dev](https://clinford.dev)**
+- 💼 **LinkedIn:** **[Clinford Jordano Valencia](https://www.linkedin.com/in/clinford-jordano-valencia/)**
+- ✉️ **Email:** [hello@clinford.dev](mailto:hello@clinford.dev)
 
+Open to conversations about frontend architecture, performance, developer tooling and mentoring. Feel free to explore my repositories or reach out.
